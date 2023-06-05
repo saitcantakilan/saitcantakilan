@@ -5,7 +5,9 @@ In line with my education and experience, I had the opportunity to work with dif
 <h3 align="left">My latest posts</h3>
 
 <ul>
-  <li><a href="https://medium.com/@saitcantakilan/asp-net-core-elasticsearch-kibana-ile-serilog-entegrasyonu-f44e45cb12b9"><b>🔥
+    <li><a href="https://saitcantakilan.medium.com/asp-net-core-ile-redis-distributed-cache-kullanımı-60b5fff2fc0f"><b>🔥
+   <i>ASP.NET Core ile Redis Distributed Caching Kullanımı</i></li>
+  <li><a href="https://saitcantakilan.medium.com/asp-net-core-elasticsearch-kibana-ile-serilog-entegrasyonu-f44e45cb12b9"><b>📝
    <i>ASP.NET Core Elasticsearch, Kibana ile Serilog Entegrasyonu</i></li>
 </ul>
 
